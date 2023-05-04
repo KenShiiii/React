@@ -13,6 +13,7 @@ function App() {
 
         <ExpenseItem></ExpenseItem>
         
+        <br></br>
         <a
           className="App-link"
           href="https://reactjs.org"
