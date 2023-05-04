@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import ExpenseItem from './components/ExpenseItem';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 
-        <p> new paragraph! </p>
+        <ExpenseItem></ExpenseItem>
         
         <a
           className="App-link"
